@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppAuthFirebase</string>
+    <string name="texttitulo">Autenticación Firebase</string>
+    <string name="textcorreo">Correo Electrónico</string>
+    <string name="textpassword">Contraseña</string>
+    <string name="txtbtnlogin">Iniciar Sesión</string>
+    <string name="textbtnregistrar">Registrarse</string>
+</resources>
